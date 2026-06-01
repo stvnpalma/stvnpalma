@@ -1,48 +1,39 @@
-# 👨‍💻 Steven Palma - Senior Software Engineer
+# Steven Palma | Senior Backend Engineer
 
-Hi there! I'm Steven Palma, a Senior Software Engineer with a passion for building robust backend systems that power modern applications. With a knack for solving complex problems and a deep love for clean, maintainable code, I bring expertise and creativity to every project I tackle.
+Senior Backend Engineer specializing in distributed systems, cloud-native architectures, and high-throughput APIs. Core expertise centers on the Node.js/TypeScript ecosystem paired with native AWS (CDK & Serverless) infrastructure. 
 
----
-
-## 🚀 About Me
-
-I'm a backend enthusiast at heart, and I thrive on creating highly scalable, secure, and performant systems. My career spans years of working with dynamic teams to deliver impactful software solutions across industries. I specialize in leveraging modern tools and technologies to bring ideas to life.
-
-When I'm not coding, you’ll find me exploring emerging tech trends, mentoring fellow developers, or diving into the latest advancements in distributed systems and cloud computing.
+Focused on writing deterministic code, designing resilient event-driven workflows, and optimizing data layers for latency and scale.
 
 ---
 
-## 💡 What I Specialize In
+### Core Technology Stack
 
-- **Backend Development**: Node.js, Express, TypeScript, JavaScript, Python, Java  
-- **Databases**: PostgreSQL, MongoDB, Redis  
-- **Cloud & DevOps**: AWS (Lambda, ECS, DynamoDB), Docker, Kubernetes, Terraform  
-- **APIs & Microservices**: REST APIs, GraphQL, gRPC, WebSockets  
-- **Testing & Quality**: Jest, Mocha, Postman, CI/CD pipelines  
-
----
-
-## 🧠 My Philosophy
-
-I believe exceptional backend engineering is about more than just writing code—it's about designing systems that are scalable, maintainable, and intuitively solve real-world problems. Whether it's architecting microservices, optimizing database queries, or ensuring seamless API integrations, I strive to deliver value in every line of code.
+* **Languages:** TypeScript, JavaScript (ES6+), Python, Go
+* **Backend & Architecture:** Node.js, NestJS, Express, RESTful APIs, GraphQL, Microservices, Event-Driven Architecture, Idempotent API Design, System Design
+* **Cloud & DevOps:** AWS (CDK, Lambda, SQS, SNS, DynamoDB, API Gateway, S3), Docker, Kubernetes, CI/CD (GitHub Actions)
+* **Observability & Testing:** OpenTelemetry (O11y), CloudWatch, Jest, Mocha, Postman
 
 ---
 
-## 🌟 Fun Facts
+### Technical Focus Areas
 
-- I'm a huge advocate for **containerization** and **infrastructure as code**.
-- I enjoy diving deep into **system design** and **distributed architectures**.
-- Outside of work, you might find me experimenting with **new programming paradigms** or exploring **nature trails**.
-
----
-
-## 🤝 Let’s Collaborate!
-
-Have an exciting project in mind or just want to talk shop? I’d love to connect and exchange ideas about building great software.
-
-- **LinkedIn**: www.linkedin.com/in/stvnplm/
-- **GitHub**: www.github.com/stvnpalma
+* **Distributed Systems:** Implementing robust microservices architectures with cross-service transactional reliability.
+* **Infrastructure as Code:** Designing reproducible serverless environments using advanced AWS CDK patterns.
+* **Performance Optimization:** Refining relational (PostgreSQL) and NoSQL (DynamoDB) access patterns to handle high-volume production traffic spikes.
 
 ---
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."* – Harold Abelson
+### Code Repositories & Blueprints
+
+Review the pinned repositories below to examine my architectural design patterns, including custom API implementations, event-driven workflows, and automated testing suites.
+
+---
+
+### Contact & Collaboration
+
+Actively interviewing for long-term backend engineering roles. If your team is looking for an autonomous engineer focused on system reliability and cloud cost efficiency, let's connect.
+
+* **LinkedIn:** [linkedin.com/in/stevenplm](https://www.linkedin.com/in/stevenplm)
+* **Email:** stvnplm@outlook.com
+
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
