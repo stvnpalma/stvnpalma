@@ -33,7 +33,7 @@ Review the pinned repositories below to examine my architectural design patterns
 
 Actively interviewing for long-term backend engineering roles. If your team is looking for an autonomous engineer focused on system reliability and cloud cost efficiency, let's connect.
 
-* **LinkedIn:** [linkedin.com/in/stevenplm](https://www.linkedin.com/in/stevenplm)
+* **LinkedIn:** [linkedin.com/in/stvnplm](https://www.linkedin.com/in/stvnplm)
 * **Email:** stvnplm@outlook.com
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
